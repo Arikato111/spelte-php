@@ -8,6 +8,10 @@
         "use-import": {
             "version": "main",
             "url": "https://github.com/Arikato111/use-import/tree/master"
+        },
+        "spelte": {
+            "version": "main",
+            "url": "https://github.com/Arikato111/spelte-php/tree/module"
         }
     }
 }
