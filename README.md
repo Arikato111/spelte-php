@@ -1,6 +1,6 @@
-# spelte 
+# <p align="center">spelte</p>
 
-## Writing Multi-page as normal but professional
+Writing Multi-page as normal but professional
 
 ### 1.0 version
 
